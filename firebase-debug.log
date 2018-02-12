@@ -1,0 +1,10 @@
+[debug] [2018-02-12T06:33:35.937Z] ----------------------------------------------------------------------
+[debug] [2018-02-12T06:33:35.937Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\STUDENT\AppData\Roaming\npm\node_modules\firebase-tools\bin\firebase login --no-localhost --debug
+[debug] [2018-02-12T06:33:35.937Z] CLI Version:   3.17.4
+[debug] [2018-02-12T06:33:35.937Z] Platform:      win32
+[debug] [2018-02-12T06:33:35.937Z] Node Version:  v8.9.1
+[debug] [2018-02-12T06:33:35.953Z] Time:          Mon Feb 12 2018 14:33:35 GMT+0800 (China Standard Time)
+[debug] [2018-02-12T06:33:35.953Z] ----------------------------------------------------------------------
+[debug] 
+[error] 
+[error] Error: Cannot run login in non-interactive mode. See login:ci to generate a token for use in non-interactive environments.
